@@ -33,3 +33,17 @@ Applying data science to real‑world challenges in public safety and business o
 Scaling impact through open source and community collaboration.
 
 Strengthening cross‑functional leadership at the intersection of tech and strategy.
+
+## 💻 Technologies I Work With
+
+| Category             | Technologies & Tools                                                                 |
+|----------------------|--------------------------------------------------------------------------------------|
+| **Languages**         | JavaScript, TypeScript, Python, PHP, SQL, Kotlin (Android & KMM), HTML5, CSS3, Bash |
+| **Frameworks**        | React, Node.js, Express, MongoDB, MERN Stack, Pandas, NumPy, scikit-learn           |
+| **Mobile**            | Kotlin Multiplatform Mobile (KMM)                                                   |
+| **Auth & Protocols**  | JWT, OAuth2.0, OIDC                                                                 |
+| **DevOps / CI/CD**    | Git, GitHub, GitHub Actions, PM2, Docker (basic), Deployment (GitHub Pages, CI)     |
+| **Tools & Platforms** | Jira, Confluence, Slack, VS Code, Postman, Totango, Google Cloud (basic)            |
+| **Methodologies**     | Agile (Scrum, Kanban), Sprint Planning, Code Review, Clean Architecture             |
+| **Styling & UX**      | BEM Methodology, Responsive Design                                                  |
+| **APIs**              | REST API integration          
