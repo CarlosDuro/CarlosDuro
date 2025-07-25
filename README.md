@@ -43,7 +43,9 @@ Strengthening cross‑functional leadership at the intersection of tech and stra
 | **Mobile**            | Kotlin Multiplatform Mobile (KMM)                                                   |
 | **Auth & Protocols**  | JWT, OAuth2.0, OIDC                                                                 |
 | **DevOps / CI/CD**    | Git, GitHub, GitHub Actions, PM2, Docker (basic), Deployment (GitHub Pages, CI)     |
-| **Tools & Platforms** | Jira, Confluence, Slack, VS Code, Postman, Totango, Google Cloud (basic)            |
+| **Tools & Platforms** | Jira, Confluence, Slack, VS Code, Totango, Google Cloud (basic)                     |
 | **Methodologies**     | Agile (Scrum, Kanban), Sprint Planning, Code Review, Clean Architecture             |
 | **Styling & UX**      | BEM Methodology, Responsive Design                                                  |
-| **APIs**              | REST API integration          
+| **UI/UX Design**      | Figma, Adobe XD, Sketch, Wireframes, UI Mockups                                     |
+| **APIs**              | REST API integration                                                                |
+| **API Testing**       | Postman, REST API, OpenAPI, Swagger, JSON, HTTP Methods  
